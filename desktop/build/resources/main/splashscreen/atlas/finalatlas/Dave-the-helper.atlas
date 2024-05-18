@@ -1,0 +1,12 @@
+Dave-the-helper.png
+size:1668,160
+repeat:none
+font
+bounds:2,2,830,16
+offsets:1,0,850,16
+gametitle
+bounds:834,2,556,76
+offsets:390,457,1300,900
+poweredbytitle
+bounds:2,80,620,76
+offsets:352,280,1300,900

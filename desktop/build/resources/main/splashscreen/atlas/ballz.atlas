@@ -1,0 +1,9 @@
+ballz.png
+size:1708,208
+repeat:none
+font
+bounds:2,2,850,16
+pressanykey
+bounds:854,2,100,100
+title
+bounds:2,104,100,100
